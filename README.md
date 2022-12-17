@@ -6,10 +6,10 @@ Developer and Designer
 
 
 
-*   🌍  I'm based in New Delhi
+*   🌍  I'm based in Toronto,Canada
 *   ✉️  You can contact me at [kananbali@icloud.com](mailto:kananbali@icloud.com)
 *   🧠  I'm learning Computer Networks and Cybersecurity
-*   🤝  I'm open to collaborating on Computer Networks Projects
+*   🤝  I'm open to collaborating on Software Engineering, Cybersecurity and Computer Networks Projects
 ### Skills
 <p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
