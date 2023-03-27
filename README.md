@@ -7,7 +7,8 @@ Developer and Designer
 
 
 *   🌍  I'm based in Toronto,Canada
-*   ✉️  You can contact me at [kananbali@icloud.com](mailto:kananbali@icloud.com)
+*   💻  Senior IT Security Specialist- Developer/Automation at Toronto Metropolitan University
+*   ✉️  You can contact me at [kananbali@icloud.com](mailto:kananbali@icloud.com)
 *   🧠  I'm learning Computer Networks and Cybersecurity
 *   🤝  I'm open to collaborating on Software Engineering, Cybersecurity and Computer Networks Projects
 ### Skills
